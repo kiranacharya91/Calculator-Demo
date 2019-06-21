@@ -4,4 +4,10 @@ class Calculator:
 		return sum_value
 	def mul(self, c, d):
 		mul_value = c*d
-		return mul_value
+		return mul_value;
+	def sub(self , a, b):
+		sub_value = a-b
+		return sub_value
+	def div(self, a, b):
+		div = a/b
+		return div
