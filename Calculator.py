@@ -5,3 +5,6 @@ class Calculator:
 	def mul(self, c, d):
 		mul_value = c*d
 		return mul_value;;;
+	def div(self, a, b):
+		div = a/b
+		return div
